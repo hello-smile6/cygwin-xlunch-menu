@@ -1,0 +1,11 @@
+Cygwin Terminal;/usr/share/icons/hicolor/48x48/apps/mintty.png;mintty
+UXTerm;/usr/share/pixmaps/xterm-color_48x48.xpm;uxterm
+X11VNC Server;/usr/share/icons/Adwaita/16x16/devices/computer.png;x11vnc -gui tray=setpass -rfbport PROMPT -bg -o %%HOME/.x11vnc.log.%%VNCDISPLAY
+XTerm;/usr/share/icons/hicolor/48x48/apps/xterm-color.png;xterm
+Microsoft Edge;/cygdrive/c/Program Files (x86)/Microsoft/Edge/Application/101.0.1210.32/VisualElements/SmallLogo.png;/cygdrive/c/Program\ Files\ \(x86\)/Microsoft/Edge/Application/msedge.exe
+Google Chrome;C:\Program Files (x86)\Google\Chrome\Application\100.0.4896.127\VisualElements\SmallLogo.png;/cygdrive/c/Program\ Files\ \(x86\)/Google/Chrome/Application/chrome.exe
+File Explorer;/etc/xlunch-icons/Explorer.png;/cygdrive/c/Windows/explorer.exe
+Settings;/etc/xlunch-icons/Settings.png;/cygdrive/c/Windows/system32/cmd.exe /c "start ms-settings:"
+Word;/etc/xlunch-icons/Word.png;/cygdrive/c/Program\ Files/Microsoft\ Office/root/Office16/WINWORD.EXE
+Excel;/etc/xlunch-icons/Excel.png;/cygdrive/c/Program\ Files/Microsoft\ Office/root/Office16/EXCEL.EXE
+PowerPoint;/etc/xlunch-icons/PowerPoint.png;/cygdrive/c/Program\ Files/Microsoft\ Office/root/Office16/POWERPNT.EXE
