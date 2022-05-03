@@ -1,2 +1,2 @@
 # cygwin-xlunch-menu
-Windows configs for https://github.com/Tobas-M/xlunch.git
+Windows configs for https://github.com/Tomas-M/xlunch.git
